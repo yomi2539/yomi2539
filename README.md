@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yomi2539&color=blue) 
-
 ## 🔥 GitHub Stats  
 <div align="center"> 
   <img  src="https://github-readme-stats-netlify.netlify.app/api?username=yomi2539&show_icons=true&theme=tokyonight" /> 
