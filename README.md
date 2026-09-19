@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=eam2539&color=blue) 
+![Profile Views](https://komarev.com/ghpvc/?username=yomi2539&color=blue) 
 
 ## 🔥 GitHub Stats  
 <div align="center"> 
